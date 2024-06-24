@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body {
+    text-align: center;
+}
+
+/* Example for center-aligning form elements */
+form {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+}
+
+/* Example for center-aligning tables */
+table {
+    margin: 0 auto;
+}
